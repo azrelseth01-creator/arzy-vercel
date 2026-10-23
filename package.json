@@ -1,0 +1,11 @@
+{
+  "name": "arzy",
+  "private": true,
+  "version": "3.0.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node tests/static.js"
+  }
+}
